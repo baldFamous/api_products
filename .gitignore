@@ -1,0 +1,4 @@
+virtualenv
+.env
+db.psql
+.idea
